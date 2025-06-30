@@ -1,15 +1,1 @@
-# Audio
-
-A tool that helps with audio files.
-------------------------------------------------------------------------------------------------
-
-How to use:
-- Load files/folder.
-- Use `File -> Export All` option or select entries and right-click and export selected.
-- Use `vgmstreamm` or it's pluging with `foobar2000`.
-
-`Load VO` accepts a `.txt` file with list of external names.
-`Generate TXTP` accepts `.txt` file with list of event names.
-
-Special Thanks To:
-bnnm: [wwiser](https://github.com/bnnm/wwiser)
+I changed this only so it would build!!
